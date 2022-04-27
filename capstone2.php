@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h3>Chess Board using Nested For Loop Group</h3>
+    <h3>Chess Board using Nested For Loop Group 5</h3>
     <table width="400px" cellspacing="0px" cellpadding="0px" border="1px">
 
         <?php
